@@ -1,4 +1,4 @@
 Mobile-Term-Backgrounder
 ========================
 
-Automatically Backgrounds terminal sessions  using screen
+Automatically Backgrounds terminal sessions using screen
